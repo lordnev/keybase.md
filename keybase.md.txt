@@ -1,0 +1,79 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am lordnev on github.
+  * I am badamowicz (https://keybase.io/badamowicz) on keybase.
+  * I have a public key whose fingerprint is 27F8 3A9B CCB2 108F 586B  B02E 5FB9 A86A 191A 0EFF
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f75d4b291782ce9b289b90668a8bb00d479205d94e43ce0dd2c2a2b1beef3f1b0a",
+      "fingerprint": "27f83a9bccb2108f586bb02e5fb9a86a191a0eff",
+      "host": "keybase.io",
+      "key_id": "5fb9a86a191a0eff",
+      "kid": "0101f75d4b291782ce9b289b90668a8bb00d479205d94e43ce0dd2c2a2b1beef3f1b0a",
+      "uid": "1511fd01e5a10367b0f5820b4e835319",
+      "username": "badamowicz"
+    },
+    "service": {
+      "name": "github",
+      "username": "lordnev"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1646773060,
+  "expire_in": 157680000,
+  "prev": "b486b64d80e5a64f439a83324ecc78b7b0ca8c6f5fca4e8497f282dc1e9cd695",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [27F8 3A9B CCB2 108F 586B  B02E 5FB9 A86A 191A 0EFF](https://keybase.io/badamowicz), yielding the signature:
+
+```
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIdAnicrVJbSFRBGF6zTVuIDEqUouh0pTadmXOdpQuUGWEXSCOwcDtzzsx6UM/Z
+zu6xLCvsIYgeuthDF4iiHiIlhbagu1lUstKDVCTWQxdLIrJIKyuqOVIPQY/NyzD/
+fN/H9338t8dkBkIZ0diLUwsf2G8z0jf3ewEy61bRNoE4Zp0Q2SZU0eGLVps0kYxW
+WaYQEQAEkKmyKRGEoaohg2KCNEwwUBRN1wgBwJRUjIBsYolKokGBaSID6YhAQikT
+GSRAF8ICs+wYdeOuZSe5LFKZJuqYGAZBEGhM1hQuhajMCNY1RYcY6oAyxomVTsJn
+cHNET9ACy+Ez/ogO2/sH/j/79obloAwhMwGksg6BqKgEcMsIEIlqoixC7AMT1LX1
+GsrRRDf1GmezZWwVtocFPq+1DOpX+/s/ZiUrPfI3p9pxTZvW+oRkXdyfbKYk+psb
+JZZt8gI5pZa6CcuxhQjkSCNp+WSoSIqqikABYYFuiVsujVo+QlYVDfATFuIul+bG
+JN6zIpka4EEUiUkib08UkUQNQ9UIj2XomqEwmRk6jyZhlSENmQak2DAVLAt+mk22
+I0Qwt6nHuGTCitl60nOpsL29bcPIQEYoMCo4wl+sQGh0zp9123Uw66fV/vri54cb
+uwf7inMOsfSy0qqJaokwnjQ2FF38qVS0HG7qCp2+s7inzS26e2DV4u5EZtOo65+0
+Lq9lqCwv6+OERcGTxBQLDuTVrahcULx04fMdt/d1oumdwfvZrfNLG8eyp7kVM/uj
+WxrajjUvaQgMDnWtzt85xKY278o5vyOdpsUde2/UX7m6dYI30LtubX3Hl+SJ3SXL
+S77OzW14kvXu0mSndUnft9TajqM9OBvNGUjNCwVL2z/klzfOKCuYUu+dvffDg9fW
+R3pezj+XHofZ90eTBtCaa4WwaWXO+8tnjpWfzi/vv9T9uHcwOPnNs8LUEfXbrY2B
+T9PCsy+k0HHv1Z5fsUBB0w==
+=eT3G
+-----END PGP MESSAGE-----
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/badamowicz
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id badamowicz
+```
